@@ -1,0 +1,821 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-09-20T10:25:50.314",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "movie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-09-20T10:26:28.487",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "movie",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-09-20T11:31:41.183",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-09-20T11:31:47.335",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-09-20T11:33:17.171",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-09-20T11:34:07.152",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-09-20T11:35:43.242",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-09-20T11:39:08.911",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Movie object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-09-20T11:51:08.777",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Movie object (2)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-09-23T16:40:10.827",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Movie object (1)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-09-23T17:45:52.285",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Movie object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-09-23T17:56:19.927",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Movie object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-09-25T17:36:01.188",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Book object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-09-25T17:37:11.294",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Book object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-09-25T17:38:15.940",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Book object (3)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-09-25T17:51:00.319",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Book object (4)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-09-27T10:28:50.049",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Book object (5)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-09-27T11:31:52.852",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "文城",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-09-27T11:34:28.494",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "窗边的小豆豆",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u4e66\\u7c4d\\u7b80\\u4ecb\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-09-29T10:27:15.762",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "富都青年 (2023)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-09-29T10:27:18.762",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "富都青年 (2023)",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add movie",
+    "content_type": 7,
+    "codename": "add_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change movie",
+    "content_type": 7,
+    "codename": "change_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete movie",
+    "content_type": 7,
+    "codename": "delete_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view movie",
+    "content_type": 7,
+    "codename": "view_movie"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add 书籍",
+    "content_type": 8,
+    "codename": "add_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change 书籍",
+    "content_type": 8,
+    "codename": "change_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete 书籍",
+    "content_type": 8,
+    "codename": "delete_book"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view 书籍",
+    "content_type": 8,
+    "codename": "view_book"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$97EUJ8IKd5EgzJh2Ndh2Gu$D/jWHesyoc12Hd5REqkxSasyfTMUriRqajWdJXUTrkc=",
+    "last_login": "2024-09-29T10:24:13.979",
+    "is_superuser": true,
+    "username": "yjh",
+    "first_name": "",
+    "last_name": "",
+    "email": "123456@qq.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-09-14T17:59:17.441",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$iXrjXp3bdZQ7FxiBswLWa7$pw1Mt8hEmiFipstAQVnDugHutuhjxlX+LCwyACFpsRU=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "movie",
+    "first_name": "jin",
+    "last_name": "yu",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-09-20T10:25:00",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "movie",
+    "model": "movie"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "book",
+    "model": "book"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "63ctj3eyq8uby70ccsuwoguag3fb33sn",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllZ418o6XMGa9e74ABypDipEHcnkVJA-2bmvVXCdSlpbTKnkdVFgTr9boT5KXUH_MB6n3Se6jKPpHdFH7TpYWJ5XQ_376BgK1sdRKBz0EHgTMGINZyD7YHO0RpAFvQmO3Fyi94QedgEFym63jEjBfX5AtzzN_s:1stOEU:-KirRbH1mP372TdUHiSJUf4PO-8IHNPNL-anUbkCo6k",
+    "expire_date": "2024-10-09T17:22:50.941"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "sqmi4jxrnnwyciagvqv25iyncsxhy0lr",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllZ418o6XMGa9e74ABypDipEHcnkVJA-2bmvVXCdSlpbTKnkdVFgTr9boT5KXUH_MB6n3Se6jKPpHdFH7TpYWJ5XQ_376BgK1sdRKBz0EHgTMGINZyD7YHO0RpAFvQmO3Fyi94QedgEFym63jEjBfX5AtzzN_s:1spPZH:39-AKWkax_zrHf1ti6MVIu3mheog4Qs4DiEUpQ8JpyU",
+    "expire_date": "2024-09-28T17:59:51.428"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "t56m6aykicblzm2ca66p0nl6lvv5c767",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllZ418o6XMGa9e74ABypDipEHcnkVJA-2bmvVXCdSlpbTKnkdVFgTr9boT5KXUH_MB6n3Se6jKPpHdFH7TpYWJ5XQ_376BgK1sdRKBz0EHgTMGINZyD7YHO0RpAFvQmO3Fyi94QedgEFym63jEjBfX5AtzzN_s:1sujbZ:pCiOK2dzdP_uof6CVRkLQEHur6crj7GJJEyG1NhSLCA",
+    "expire_date": "2024-10-13T10:24:13.979"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "t88c4fm85aqhnje6y1x5w48zkqelat23",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllZ418o6XMGa9e74ABypDipEHcnkVJA-2bmvVXCdSlpbTKnkdVFgTr9boT5KXUH_MB6n3Se6jKPpHdFH7TpYWJ5XQ_376BgK1sdRKBz0EHgTMGINZyD7YHO0RpAFvQmO3Fyi94QedgEFym63jEjBfX5AtzzN_s:1su0gr:yRhv4UF4XRa44CyYIk9MzZFBlBvm6PAiu5kXz9yrej4",
+    "expire_date": "2024-10-11T10:26:41.736"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "w2ko0xjtxhc817yq3ca37l1kb8nlqe0j",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllZ418o6XMGa9e74ABypDipEHcnkVJA-2bmvVXCdSlpbTKnkdVFgTr9boT5KXUH_MB6n3Se6jKPpHdFH7TpYWJ5XQ_376BgK1sdRKBz0EHgTMGINZyD7YHO0RpAFvQmO3Fyi94QedgEFym63jEjBfX5AtzzN_s:1srTIn:sfME9gHtSeENX8MIWWr0GsrF0bW7-d4XVGXZsh1W9eQ",
+    "expire_date": "2024-10-04T10:23:21.573"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "yhtauz7rk7sbj37o653e5sm73cv0xn58",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllZ418o6XMGa9e74ABypDipEHcnkVJA-2bmvVXCdSlpbTKnkdVFgTr9boT5KXUH_MB6n3Se6jKPpHdFH7TpYWJ5XQ_376BgK1sdRKBz0EHgTMGINZyD7YHO0RpAFvQmO3Fyi94QedgEFym63jEjBfX5AtzzN_s:1sseME:VzBsKr-AL1tfVnlTLnBCtgoZ5UU3nL49G_UVoUcJ_JQ",
+    "expire_date": "2024-10-07T16:23:46.672"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 1,
+  "fields": {
+    "title": "野孩子",
+    "description": "《野孩子》是一部关于社会困境儿童的剧情电影，由‌殷若昕执导，‌徐逸洲编剧，‌王俊凯领衔主演，‌邓家佳、‌陈永胜、‌潘斌龙、‌关子勰、‌迟兴楷主演。该片取材自“流浪兄弟”真实事件，讲述了“小偷”哥哥马亮在巧合下遇见了“孤儿”弟弟轩轩，相似的命运让他们组成了一个小家庭。然而，一群不速之客打破了他们的平静生活，马亮决心不惜一切守护弟弟和他们的家。‌‌12  电影《野孩子》通过温暖治愈的情节，展现了青少年的友谊和成长，让观众更多关注到困境儿童的生活，为他们提供更多帮助，影片取材自“流浪兄弟”真实事件，聚",
+    "image": "movie/images/1.jpg",
+    "url": "https://movie.douban.com/subject/36399203/?from=showing"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 2,
+  "fields": {
+    "title": "全员嫌疑人",
+    "description": "小沈阳饰演的休假警察入住“五支香”民宿，入住民宿的还有秦海璐饰演的侦探小说家梦竹、董畅饰演的流浪汉、曹恩齐饰演的钢琴师，随着民宿老板和女招待双双丧命，一时之间民宿内全员身份扑朔迷离，全员皆嫌犯，全员亦侦探，“五支香民宿”一夜之间布满迷雾。每个人的背后究竟隐藏着什么不为人知的秘密？他们的身份真的就像大家看到的这样如此简单吗？每个人尽全力洗清自己嫌疑的同时是否会沦为别人的炮灰？",
+    "image": "movie/images/2.jpg",
+    "url": "https://movie.douban.com/subject/36986329/?from=showing"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 3,
+  "fields": {
+    "title": "刺猬",
+    "description": "一个“精神病人”如何在正常人的世界中生活？\r\n　　王战团（葛优 饰），俗世里的一位奇人，偶尔疯癫，行为古怪，却有独一份的清醒。周正（王俊凯 饰），敏感沉默的少年人，因口吃自闭，却有无声的反骨。两个不合群的人，让一大家子头疼不已，闹剧不断……\r\n　　本片改编自郑执创作的短篇小说《仙症》。",
+    "image": "movie/images/p2912147213.webp",
+    "url": "https://movie.douban.com/subject/35633904/?from=showing"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 4,
+  "fields": {
+    "title": "姥姥的外孙 หลานม่า (2024)",
+    "description": "出身泰国华人家庭的无业年轻人阿安（马群耀 饰）看到堂妹因照顾病重的爷爷而继承房产后，也对身患绝症的姥姥（乌萨·萨梅坎姆 饰）动了心思，计划复刻堂妹的“致富之路”获取百万遗产。但面对同样“努力”的舅舅们和挑剔毒舌的姥姥，阿安这条争当全职孝孙的“啃姥致富”之路似乎没有他预想的那么顺利……",
+    "image": "movie/images/p2911511570.webp",
+    "url": "https://movie.douban.com/subject/36328210/?from=showing"
+  }
+},
+{
+  "model": "movie.movie",
+  "pk": 5,
+  "fields": {
+    "title": "富都青年 (2023)",
+    "description": "没有公民身份证的阿邦和阿迪，在混杂外劳聚居的富都老社区里苟且偷生。他们无法享有一般国民福利，无法申请护照，连银行户头也开不了。哥哥阿邦天生哑巴，任劳任怨也认命，只求一份安定生活，弟弟阿迪则不甘向命运低头，从而违法贩卖假证件，他一心只想赚到钱就带着哥哥离开这个厌恶的地方。原本就过着不平等生活的两人，因为社工佳恩的热心，并自愿协助追查原生父母和出生证明的数据，但她的好意却导致一场意外发生，同时也让阿邦跟阿迪再次陷入水深火热的命途。",
+    "image": "movie/images/富都青年_2023.webp",
+    "url": "https://movie.douban.com/subject/35211921/?from=showing"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 1,
+  "fields": {
+    "title": "活着",
+    "description": "《活着(新版)》讲述了农村人福贵悲惨的人生遭遇。福贵本是个阔少爷，可他嗜赌如命，终于赌光了家业，一贫如洗。他的父亲被他活活气死，母亲则在穷困中患了重病，福贵前去求药，却在途中被国民党抓去当壮丁。经过几番波折回到家里，才知道母亲早已去世，妻子家珍含辛茹苦地养大两个儿女。此后更加悲惨的命运一次又一次降临到福贵身上，他的妻子、儿女和孙子相继死去，最后只剩福贵和一头老牛相依为命，但老人依旧活着，仿佛比往日更加洒脱与坚强。\r\n\r\n《活着(新版)》荣获意大利格林扎纳•卡佛文学奖最高奖项（1998年）、台湾《中国时报》10本好书奖（1994年）、香港“博益”15本好书奖（1994年）、第三届世界华文“冰心文学奖”（2002年），入选香港《亚洲周刊》评选的“20世纪中文小说百年百强”、中国百位批评家和文学编辑评选的“20世纪90年代最有影响的10部作品”。",
+    "image": "book/images/1_i33EyMI.jpg",
+    "url": "https://book.douban.com/subject/4913064/#:~:text=%E3%80%8A%E6%B4%BB%E7%9D%80%20(%E6%96%B0%E7%89%88)%E3%80%8B%E8%AE%B2"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 2,
+  "fields": {
+    "title": "许三观卖血记",
+    "description": "《许三观卖血记》是余华1995年创作的一部长篇小说，它以博大的温情描绘了磨难中的人生，以激烈的故事形式表达了人在面对厄运时求生的欲望。小说讲述了许三观靠着卖血渡过了人生的一个个难关，战胜了命运强加给他的惊涛骇浪，而当他老了，知道自己的血再也没有人要时，精神却崩溃了。",
+    "image": "book/images/2.jpg",
+    "url": "https://book.douban.com/subject/1029791/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 3,
+  "fields": {
+    "title": "云边有个小卖部",
+    "description": "云边镇少年刘十三的成长故事。\r\n\r\n刘十三自幼与开小卖部的外婆相依为命，努力读书为了离开小镇，追寻远方与梦想。在城市里碰壁受挫的刘十三回到了小镇，与少时玩伴程霜重逢。小镇生活平静却暗潮汹涌，一个孤儿，一场婚礼，一场意外，几乎打破了所有人的生活。\r\n\r\n为了完成一个几乎不可能完成的任 务，刘十三拼尽全力，却不知道，生命中更重要的正在离自己而去。",
+    "image": "book/images/3.jpg",
+    "url": "https://book.douban.com/subject/30254298/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 4,
+  "fields": {
+    "title": "人生海海",
+    "description": "“他是全村最出奇古怪的人，古怪的名目要扳着指头一个一个数：\r\n\r\n第一，他当过国民党军队的上校，是革命群众要斗争的对象。但大家一边斗争他，一边又巴结讨好他，家里出什么事都去找他拿主意。\r\n\r\n第二，都说他是太监，可我们小孩子经常偷看他那个地方，好像还是满当当的，有模有样的。\r\n\r\n第三， 他向来不出工，不干农活，天天空在家里看报纸，嗑瓜子，可日子过得比谁家都舒坦。还像养孩子一样养着一对猫，宝贝得不得了，简直神经病！”\r\n\r\n·\r\n\r\n《人生海海》讲述了一个人在时代中穿行缠斗的一生，离奇的故事里藏着让人叹息的人生况味,既有日常滋生的残酷，也有时间带来的仁慈。",
+    "image": "book/images/4.jpg",
+    "url": "https://book.douban.com/subject/30475767/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 5,
+  "fields": {
+    "title": "窗边的小豆豆",
+    "description": "《窗边的小豆豆》讲述了作者上小学时的一段真实的故事。作者因淘气被原学校退学后，来到巴学园。在小林校长的爱护和引导下，让一般人眼里“怪怪”的小豆豆逐渐成了一个大家都能接受的孩子，并奠定了她一生的基础。这本书不仅带给世界几千万读者无数的笑声和感动，而且为现代教育的发展注入了新的活力。",
+    "image": "book/images/1_Wbe0tyS.jpg",
+    "url": "https://book.douban.com/subject/1007914/"
+  }
+},
+{
+  "model": "book.book",
+  "pk": 6,
+  "fields": {
+    "title": "文城",
+    "description": "【编辑推荐】\r\n\r\n★时隔八年，余华全新长篇重磅归来！\r\n\r\n◆人生就是自己的往事和他人的序章\r\n\r\n时代的洪流推着每个人做出各自的选择。\r\n\r\n这是一个荒蛮的年代，结束的尚未结束，开始的尚未开始。\r\n\r\n◆我们总是在不同时代、不同国家、不同语言的作家那里，读到自己的感受，甚至是自己的生活。假如文学中真的存在某些神秘的力量，我想可能就是这些。\r\n\r\n——余华\r\n\r\n★写《活着》的余华又回来了！这一回不止是时空上的突破\r\n\r\n◆讲述南方小镇上各色人物的爱恨悲欢\r\n\r\n颠沛起伏的人生故事牵引出军阀混战、匪祸泛滥的时代之殇\r\n\r\n◆铺开一幅荡气回肠的时代画卷\r\n\r\n在民间叙事中融入魔幻色彩，时空绵延，人物纷杂，情节跌宕\r\n\r\n◆谱写一曲关于命运的荒诞史诗\r\n\r\n细腻而宏大，舒畅而勇猛，夹杂着黑色幽默，道出生命的脆弱与柔韧\r\n\r\n★ 余华亲自选定封面插画\r\n\r\n◆封面插画来自当代艺术家张晓刚作品《失忆与记忆：男人》，风格独特，意蕴广远。",
+    "image": "book/images/文城.jpg",
+    "url": "https://book.douban.com/subject/35335514/"
+  }
+}
+]

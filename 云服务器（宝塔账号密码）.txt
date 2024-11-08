@@ -1,0 +1,6 @@
+ 外网面板地址: https://121.43.119.130:8888/e828c83e
+ 内网面板地址: https://172.21.167.238:8888/e828c83e
+ username: user
+ password: 16270152
+
+b5Xi6AEdTbkmnfmY
